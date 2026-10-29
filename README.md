@@ -13,3 +13,4 @@
 | 8 Oct 2026  | [Lab 2 — Heuristic Search on the Airline Network](https://github.com/raimah-1529/UTP-Artificial-Intelligence/blob/main/all_experiments/lab02_informed_search_worked%20(1).ipynb)                   |
 | 15 Oct 2026 | [Lab 3 — Search Engineering: Package, Tests, CLI, and Benchmark](https://github.com/raimah-1529/UTP-Artificial-Intelligence/blob/main/all_experiments/lab%2003.ipynb) |
  23 Oct 2026 | [Lab 4 — Fuzzy Logic and ANFIS with Air-Quality Data](https://github.com/raimah-1529/UTP-Artificial-Intelligence/blob/main/all_experiments/lab%2004.ipynb) |
+ 29 Oct 2026 | [Lab 5 — Robotics: Sensor-to-Action Control](https://github.com/raimah-1529/UTP-Artificial-Intelligence/blob/main/all_experiments/lab%2005.ipynb) |
